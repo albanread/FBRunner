@@ -2,7 +2,7 @@
 
 This creates the environment to run FasterBASIC in SuperTerminal.
 
-FasterBASIC is a very standard basic compiler for the Mac, it is Faster because of LuaJIT.
+FasterBASIC is a very standard BASIC compiler for the Mac, it is Faster because of LuaJIT.
 
 FBRunner supports a BASIC editor, and links many of the SuperTerminal API features as commands into the FasterBASIC compiler.
 
